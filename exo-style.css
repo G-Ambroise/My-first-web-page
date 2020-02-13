@@ -1,0 +1,76 @@
+html {
+    text-align: center;
+    font-family: 'Yantramanav', sans-serif;
+}
+
+.left-side {
+    background-color: mediumpurple;
+    width: 20%;
+    height: 650px;
+    float: left;
+}
+
+.right-side {
+    background-color: grey;
+    width: 80%;
+    height: 650px;
+    position: relative;
+    float: right;
+    font-size: large;
+}
+
+img {
+    margin-top: 25px;
+}
+
+li {
+    list-style-type: none;
+    padding: 10px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+}
+
+span {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+h3 {
+    line-height: 500px;
+}
+
+h4 {
+    margin-top: 75px;
+}
+
+.contact {
+    line-height: 150px;
+}
+
+li {
+    background-color: mediumpurple;
+}
+
+.top li {
+    position: relative;
+    display: inline;
+    margin-right: 10px;
+}
+
+.bottom li {
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 200px;
+}
+
+#message {
+    width: 500px;
+    height: 200px;
+}
